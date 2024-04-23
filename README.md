@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/yuriy-soroka-938836230" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://linkedin.com/in/yuriy-soroka-938836230" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Stack Overflow Profile"><img width="22" src="stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
