@@ -22,7 +22,6 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/JeyReichel/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: jeyreichel@gmail.com">jeyreichel@gmail.com</a>
 </p>
 
 <hr>
