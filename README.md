@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://linkedin.com/in/yuriy-soroka-938836230" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://drive.google.com/file/d/1_e08X7705n8zH-tS5UkyAhswXRHHWmrM/view?usp=sharing" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Stack Overflow Profile"><img width="22" src="stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
@@ -20,7 +20,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Ruby on Rails
   <br>
-  💬 Ask me anything about from <a href="https://github.com/JeyReichel/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://drive.google.com/file/d/1_e08X7705n8zH-tS5UkyAhswXRHHWmrM/view?usp=sharing" title="Issues">Here</a>
   <br>
 </p>
 
